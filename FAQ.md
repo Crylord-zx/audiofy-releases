@@ -5,7 +5,10 @@ Answers about Audiofy, the free music app for Android. Back to the [README](READ
 ## The basics
 
 ### What is Audiofy?
-Audiofy is a free music app for Android. It searches JioSaavn and YouTube together, plays songs in one player, and adds synced lyrics, offline downloads, smart autoplay and shared playlists. It has no ads and needs no account.
+Audiofy is a free music app for Android that puts JioSaavn and YouTube in one search and one player, with synced lyrics, offline downloads and no ads. It also adds smart autoplay and shared playlists, and needs no account.
+
+### How does Audiofy compare with other ways to listen?
+Audiofy does not replace JioSaavn or YouTube; it reads from both and adds lyrics, downloads, Blend playlists and a sound engine on top. It is free and Android only. See the full [comparison](COMPARE.md), including who should pick something else.
 
 ### Is Audiofy free?
 Yes. There are no ads, no subscription and no in-app purchases.

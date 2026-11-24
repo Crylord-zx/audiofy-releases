@@ -82,3 +82,4 @@ Full notes: https://github.com/Crylord-zx/audiofy-releases/blob/main/CHANGELOG.m
 - Latest release: https://github.com/Crylord-zx/audiofy-releases/releases/latest
 - README: https://github.com/Crylord-zx/audiofy-releases/blob/main/README.md
 - FAQ: https://github.com/Crylord-zx/audiofy-releases/blob/main/FAQ.md
+- Comparison: https://github.com/Crylord-zx/audiofy-releases/blob/main/COMPARE.md
