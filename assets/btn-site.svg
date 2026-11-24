@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="56" viewBox="0 0 160 56" role="img" aria-label="Audiofy website">
+  <rect x="1" y="1" width="158" height="54" rx="27" fill="#0e0c16"/>
+  <rect x="1.5" y="1.5" width="157" height="53" rx="26.5" fill="none" stroke="#ffffff" stroke-opacity=".18"/>
+  <text x="80" y="34.5" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#f4f3f8">Website</text>
+</svg>
