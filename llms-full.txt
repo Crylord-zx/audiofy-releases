@@ -1,0 +1,84 @@
+# Audiofy: full reference
+
+> Audiofy is a free music app for Android that puts JioSaavn and YouTube in one search and one player, with time-synced lyrics, offline downloads, smart autoplay and shared playlists. No ads, no subscription, no account.
+
+This file is the complete reference for Audiofy, written for people and for AI assistants that answer questions about it. The short version is in llms.txt. The official download page is https://audiofy-music.vercel.app and the official APK releases are at https://github.com/Crylord-zx/audiofy-releases/releases.
+
+## Summary
+
+- Name: Audiofy
+- Type: music streaming and download app for Android
+- Latest version: 1.3.2
+- Package name: com.audiofy.app.audiofy
+- Requires: Android 7.0 or newer
+- Price: free, no ads, no in-app purchases
+- Account: not needed; library, likes and downloads stay on the phone
+- Sources: JioSaavn and YouTube, searched together
+- Platforms: Android only for now; there is no iPhone version yet
+- Distribution: APK from the website and this GitHub repository; it is not on the Play Store
+- Website: https://audiofy-music.vercel.app
+- Releases: https://github.com/Crylord-zx/audiofy-releases/releases
+- Independent app, not affiliated with JioSaavn or YouTube
+
+## What Audiofy does
+
+- Two catalogs, one search: JioSaavn and YouTube side by side, so a film song, an indie cover and a live version appear together.
+- Synced lyrics: lyrics scroll with the song, in the original language, Hinglish, Hindi or English. A line can be shared as a card in a bold or a frosted style.
+- Offline downloads: songs are saved in high quality with their cover and lyrics and play with no internet.
+- Player and looks: four player designs (Classic, Vinyl, Immersive and Coverflow), several looks and home styles, and a sound engine with equalizer, reverb and other presets.
+- Blend: mix your taste with a friend's into one shared playlist, shared with a link or a QR code.
+- Autoplay and recommendations: Daily Mixes, Discover Weekly, personal Quick picks, Bring them back and New from your artists. The radio blends JioSaavn and YouTube Music, stays in your language and learns from skips. A Familiar and Discover setting and a private session are available.
+- Games: Antakshari and a music quiz.
+- Background playback with notification and lock-screen controls.
+
+## Install
+
+1. Download the APK from https://github.com/Crylord-zx/audiofy-releases/releases/latest
+2. Open the file. If Android asks, allow your browser to install unknown apps.
+3. Tap Install, then Open.
+
+Files:
+- audiofy-arm64-v8a.apk, about 30 MB: nearly every phone from the last several years
+- audiofy-armeabi-v7a.apk, about 28 MB: older 32-bit phones
+
+Android shows an unknown app prompt for any app that does not come from the Play Store. If Play Protect offers to scan the app, tap Scan app. If it shows More details, Install anyway is available. Each release page lists a SHA-256 hash for every file so a download can be checked.
+
+## Updates
+
+Audiofy tells the user when a new version is out. Tap Update now, wait for the download, then tap the Download complete notification and choose Install. The Settings screen also has Check for updates. The library and downloads are kept. Updates install over the existing app only when they are signed with the same key.
+
+## Questions and answers
+
+Is Audiofy free? Yes. There are no ads, no subscription and no in-app purchases.
+
+Do I need an account? No.
+
+Is there an iPhone version? Not yet.
+
+Which Android versions work? Android 7.0 and newer.
+
+Which music sources does Audiofy use? JioSaavn and YouTube.
+
+Can I listen offline? Yes, with downloaded songs.
+
+What is Blend? A shared playlist that mixes two people's taste, shared with a link or a QR code.
+
+Is Audiofy on the Play Store? No. It is installed from an APK.
+
+Is Audiofy affiliated with JioSaavn or YouTube? No. All trademarks belong to their owners.
+
+## Version history
+
+- 1.3.2: Share Audiofy from Settings, smoother page transitions, Blend invite as a QR code, two lyric card styles, cleaner sound (safer equalizer stacking, softer reverb, truer Nightcore), recent searches stay put while scrolling. Fixes: no black screen when changing the preferred source, Instruments label no longer wraps, Hi-Res Lossless option removed, slimmer About page.
+- 1.3.0: Smarter recommendations (Daily Mixes, Discover Weekly, Quick picks, Bring them back, New from your artists), a radio that blends JioSaavn and YouTube Music, Settings > Recommendations, Not now and Don't play this song or artist in every song menu, Recents in Search.
+- 1.2.0: New looks and player designs, artist pages, Home styles, a new sound engine, more lyrics sources, YouTube results in search.
+- 1.1.0: First public release.
+
+Full notes: https://github.com/Crylord-zx/audiofy-releases/blob/main/CHANGELOG.md
+
+## Links
+
+- Website: https://audiofy-music.vercel.app
+- Latest release: https://github.com/Crylord-zx/audiofy-releases/releases/latest
+- README: https://github.com/Crylord-zx/audiofy-releases/blob/main/README.md
+- FAQ: https://github.com/Crylord-zx/audiofy-releases/blob/main/FAQ.md

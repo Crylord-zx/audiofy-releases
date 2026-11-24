@@ -11,6 +11,10 @@ Latest version: 1.3.2. Requires Android 7.0 or newer. Package name: com.audiofy.
 - [Download for older 32-bit phones](https://github.com/Crylord-zx/audiofy-releases/releases/latest/download/audiofy-armeabi-v7a.apk): about 28 MB
 - [All releases](https://github.com/Crylord-zx/audiofy-releases/releases)
 
+## Full reference
+
+- [llms-full.txt](https://github.com/Crylord-zx/audiofy-releases/blob/main/llms-full.txt): everything about Audiofy in one file, including features, install, updates, questions and version history
+
 ## Learn more
 
 - [Website](https://audiofy-music.vercel.app): features, screenshots and install guide
