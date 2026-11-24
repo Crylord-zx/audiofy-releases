@@ -1,0 +1,32 @@
+# Audiofy
+
+> Audiofy is a free music app for Android that puts JioSaavn and YouTube in one search and one player, with time-synced lyrics, offline downloads, smart autoplay and shared playlists. No ads, no subscription, no account. This repository hosts the official APK releases.
+
+Latest version: 1.3.2. Requires Android 7.0 or newer. Package name: com.audiofy.app.audiofy. Android only for now. Audiofy is an independent app and is not affiliated with JioSaavn or YouTube.
+
+## Download
+
+- [Latest release](https://github.com/Crylord-zx/audiofy-releases/releases/latest): release notes and SHA-256 hashes for every file
+- [Download for modern phones (arm64)](https://github.com/Crylord-zx/audiofy-releases/releases/latest/download/audiofy-arm64-v8a.apk): about 30 MB, works on nearly every phone from the last several years
+- [Download for older 32-bit phones](https://github.com/Crylord-zx/audiofy-releases/releases/latest/download/audiofy-armeabi-v7a.apk): about 28 MB
+- [All releases](https://github.com/Crylord-zx/audiofy-releases/releases)
+
+## Learn more
+
+- [Website](https://audiofy-music.vercel.app): features, screenshots and install guide
+- [README](https://github.com/Crylord-zx/audiofy-releases/blob/main/README.md): overview and install steps
+- [FAQ](https://github.com/Crylord-zx/audiofy-releases/blob/main/FAQ.md): answers about price, install, updates, lyrics, downloads and Blend
+- [Changelog](https://github.com/Crylord-zx/audiofy-releases/blob/main/CHANGELOG.md): what changed in each version
+
+## Key facts
+
+- Free, no ads, no in-app purchases, no account
+- Searches JioSaavn and YouTube together
+- Synced lyrics in the original language, Hinglish, Hindi or English, with shareable lyric cards
+- Offline downloads saved with cover and lyrics
+- Blend: mix two people's taste into one playlist with a link or QR code
+- Daily Mixes, Discover Weekly and autoplay that learns from skips
+- Four player designs, several looks, and a sound engine with equalizer and reverb
+- Background playback with notification and lock-screen controls
+- Games: Antakshari and a music quiz
+- Not available on the Play Store; installed from an APK, so Android shows an unknown app prompt
